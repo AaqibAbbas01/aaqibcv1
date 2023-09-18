@@ -35,73 +35,73 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Software Test Engineer",
+    location: "Testrinx Software Solutions Pvt. Ltd , Noida",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2019",
-  },
-  {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
-    description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "As a Quality Analyst at Testrinx Software Solutions, I have played a vital role in ensuring high-quality software solutions. I apply STLC methodologies, collaborate with cross-functional teams using Jira, and conduct manual testing with black box techniques. With expertise in SQL, I perform effective database testing. I utilize Postman API for comprehensive API testing, Figma for UI/UX testing, and develop mobile testing strategies. I maintain adherence to quality standards, collaborate with developers, and continuously enhance my skills. Committed to driving quality excellence, I contribute to the success of the development team at Testrinx Software Solutions.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "June 2019 - May 2022",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Quality Assurance Engineer",
+    location: "Reddoorz , Noida",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2021 - present",
+      "During my tenure as a Quality Analyst at RedDoorz, I excelled in software testing and quality assurance. I collaborated with cross-functional teams to implement STLC methodologies, designed and executed comprehensive test automation strategies using Java and TestNG. I implemented BDD techniques with Cucumber, applied Agile methodologies, conducted mobile testing with Selenium and Appium, utilized Postman API for API testing, and performed SQL and SAP HANA database testing. I identified performance bottlenecks, conducted load testing, and utilized Microsoft Excel for data analysis and reporting.",
+    icon: React.createElement(CgWorkAlt),
+    date: "June 2022 - May 2023",
+  },
+  {
+    title: "Quality Analyst",
+    location: "Shiprocket, Gurugram",
+    description:
+      "As a Quality Analyst at Shiprocket, I ensure the delivery of high-quality software solutions in the dynamic field of logistics and e-commerce. My responsibilities include debugging software issues, conducting load testing, and performing system integration testing. I leverage PHP, Java, TestNG, and Cucumber frameworks to develop and execute comprehensive API and automation tests. Utilizing tools such as Jenkins, Python, Selenium, and Postman API, I drive efficient testing and automation processes. I excel in applying Scrum methodologies, managing project workflows with Jira, and utilizing SQL and Microsoft Excel for data analysis and reporting. With a focus on quality assurance and adherence to Agile methodologies, I contribute to Shiprocket's success in delivering reliable solutions to clients.",
+    icon: React.createElement(CgWorkAlt),
+    date: "June 2023 - present",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "SRX International",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "Streamlined global package delivery logistics from India using JIRA, Excel, phpMyAdmin, ELK Logs, Jenkins, and Postman for efficient bug tracking, data management, and real-time log analysis. Facilitated international expansion for Indian businesses with reliable shipping.",
+    tags: ["Jira", "Rest Assured", "Postman", "Selenium", "Java", "Jenkins", "ELK Logs", "phpmyadmin", "sql"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "Finance & Redpartner Project at RedDoorz",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "Collaborated cross-functionally to ensure software quality, conducted database testing using DBeaver for SAP and MySQL databases, and maintained test artifacts for various types of testing.",
+    tags: ["Jira", "Rest Assured", "Postman", "Selenium", "Java", "Jenkins", "SAP Hanna", "dbeaver", "sql"],
     imageUrl: rmtdevImg,
   },
   {
-    title: "Word Analytics",
+    title: "Stanza Living Website Project",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+      "Conducted smoke, manual, regression, and data validation testing, wrote test plans and cases, performed API and database testing, and actively participated in Agile/Scrum processes.",
+    tags: ["Appium", "Java", "SQL", "Jira", "Browserstack", "Figma"],
     imageUrl: wordanalyticsImg,
   },
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "React",
-  "Next.js",
-  "Node.js",
+  "Java",
+  "Selenium",
+  "Appium",
+  "Figma",
+  "Php My Admin",
+  "Jenkins",
+  "ELK for Logs",
   "Git",
   "Tailwind",
   "Prisma",
   "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
+  "SAP Hanna",
+  "My Sql",
+  "Postman",
+  "Rest Assured",
+  "Jira",
+  "MS Excel",
+  "Dbeaver",
+  "Browserstack",
 ] as const;

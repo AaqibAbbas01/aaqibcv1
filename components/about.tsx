@@ -19,29 +19,27 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
+      Experienced QA Engineer with 4.3 years of expertise in{" "}
+        <span className="font-medium">Manual and Automation testing</span>, Proficient in utilizing tools like{" "}
+        <span className="font-medium">Selenium, Appium, Java, API testing with Rest Assured, Postman, and ELK for effective logs checking and debugging, as well as adept in database testing</span>.{" "}
+        <span className="italic">Known for identifying defects, tracking</span> and reporting issues, and fostering cross-functional collaboration to ensure top-notch software quality. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          Java, Selenium , Postman, Rest Assured API Testing, ELK for Logs, Appium,
+          Android Studio , SQl, SAP Hanna, Browser Stack, Github and Jenkins
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
+        . I am also familiar with Php, Ruby on Rails, React, Nextjs, Tailwind CSS, TypeScript and Prisma. I am always looking to
         learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        <span className="font-medium">full-time position</span> as a Senior Quality Assurance Engineer.
       </p>
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
+        video games, watching movies, and playing with my cat. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
+        <span className="font-medium">new languages and in my free time i have created some websites or Applications also</span>. I'm also
         learning how to play the guitar.
       </p>
     </motion.section>
