@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-      Experienced QA Engineer with 4.3 years of expertise in{" "}
+      Experienced Senior Quality Assurance Engineer with 4.6 years of expertise in{" "}
         <span className="font-medium">Manual and Automation testing</span>, Proficient in utilizing tools like{" "}
         <span className="font-medium">Selenium, Appium, Java, API testing with Rest Assured, Postman, and ELK for effective logs checking and debugging, as well as adept in database testing</span>.{" "}
         <span className="italic">Known for identifying defects, tracking</span> and reporting issues, and fostering cross-functional collaboration to ensure top-notch software quality. I <span className="underline">love</span> the
@@ -29,7 +29,7 @@ export default function About() {
           Java, Selenium , Postman, Rest Assured API Testing, ELK for Logs, Appium,
           Android Studio , SQl, SAP Hanna, Browser Stack, Github and Jenkins
         </span>
-        . I am also familiar with Php, Ruby on Rails, React, Nextjs, Tailwind CSS, TypeScript and Prisma. I am always looking to
+        . I am also familiar with Php, Ruby on Rails, Javascript, HTML, Python ,React, Nextjs, Tailwind CSS, TypeScript and Prisma. I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a Senior Quality Assurance Engineer.
       </p>
